@@ -7,8 +7,8 @@ class Login{
 
 	
 	signIn() {
-		this.userName.setValue("billy.carson@blueacorn.com");
-		this.password.setValue("pass4billy");
+		this.userName.setValue("test@test.com");
+		this.password.setValue("pass4test");
 	}
 
 	signOut() {
