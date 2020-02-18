@@ -35,7 +35,7 @@ class Checkout {
 	fillShippingForm() {
 		this.firstName.setValue("Billy");
 		this.lastName.setValue("Carson");
-		this.address.setValue("145 Williman St");
+		this.address.setValue("123 Test St");
 		this.city.setValue("Charleston");
 		this.zip.setValue("29403");
 		this.state.selectByValue("SC");
@@ -46,7 +46,7 @@ class Checkout {
 		this.cardName.setValue("Test");
 		this.cardNumber.setValue("4111111111111111");
 		this.expMonth.selectByValue("4");
-		this.expYear.selectByValue("2020");
+		this.expYear.selectByValue("2022");
 		this.cvn.setValue("123");
 	}
 
