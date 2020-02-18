@@ -8,7 +8,7 @@ describe("Checkout", function () {
 	var billingBreadcrumb = 'STEP 2 - Billing';
 	var placeOrderBreadcrumb = 'STEP 3 - Place Order';
 	var successfullCheckoutTitle = 'THANK YOU FOR YOUR ORDER.';
-	var userEmail = "billy.carson@blueacorn.com";
+	var userEmail = "test@test.com";
 
 	before( function () {
 		//Go to product page and add product to cart
